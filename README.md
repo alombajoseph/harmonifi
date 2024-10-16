@@ -1,6 +1,4 @@
-Here's the updated `README.md` file for the HarmoniFi project with your username and developer information:
 
-```markdown
 # HarmoniFi
 
 HarmoniFi is a personal finance management application designed to help users track their expenses, manage budgets, and gain insights into their financial habits. This project focuses on building a robust and scalable backend using Django and Django REST Framework.
